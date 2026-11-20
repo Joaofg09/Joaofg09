@@ -18,7 +18,7 @@
 
 Sou desenvolvedor **full-stack** e estou **concluindo a graduação neste semestre**. Busco uma vaga de **desenvolvedor júnior/pleno** onde eu possa entregar valor desde o início e continuar evoluindo.
 
-- ⚙️ **Back-end:** APIs REST com Node.js, Express, Prisma ORM e PostgreSQL, containerizadas com Docker
+- ⚙️ **Back-end:** APIs REST com Node.js, Express, Prisma ORM e PostgreSQL, com autenticação JWT e senhas com bcrypt
 - ⚛️ **Front-end:** aplicações React com rotas, autenticação JWT e consumo de APIs
 - 📱 **Mobile:** crio e publico meus próprios apps Android sob a marca **JPFG Apps**
 - 🤝 **Trabalho em equipe:** vários projetos acadêmicos feitos em grupo com Git e GitHub, do protótipo de usabilidade ao sistema em produção
@@ -39,8 +39,8 @@ Sou desenvolvedor **full-stack** e estou **concluindo a graduação neste semest
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🎮 [**NextLevel**](https://github.com/Joaofg09/nextlevel-frontend) | E-commerce de jogos digitais: cadastro/login com JWT, carrinho, checkout, biblioteca, lista de desejos e painel administrativo com relatórios | React · React Router · JWT |
-| 🗄️ [**Minha API**](https://github.com/Joaofg09/Minha-api) | API REST de tarefas com cadastro/login, autenticação JWT por middleware, migrations e deploy em container | Node.js · Express · Prisma · PostgreSQL · JWT · Docker |
-| ✅ [**Tarefas App**](https://github.com/Joaofg09/tarefas-app) | Front-end que consome a Minha API | React · Vite |
+| 🗄️ [**Minha API**](https://github.com/Joaofg09/Minha-api) | Back-end do Tarefas App: cadastro/login com bcrypt, autenticação JWT por middleware e migrations | Node.js · Express · Prisma · PostgreSQL · JWT |
+| ✅ [**Tarefas App**](https://github.com/Joaofg09/tarefas-app) | Front-end com login e CRUD de tarefas, integrado à Minha API via Axios | React · Vite |
 | 🌐 [**JPFG Apps**](https://github.com/Joaofg09/Joaofg09.github.io) | Hub dos meus apps, gerado dinamicamente a partir de um JSON e hospedado no GitHub Pages | HTML · CSS · JavaScript |
 | 🖥️ [**Sistema WorkLab**](https://github.com/Joaofg09/Sistema_WorkLab) | Gestão de estações de trabalho, projeto em equipe | Node.js · Express |
 | 📅 [**Agendamento de Salas**](https://github.com/Joaofg09/Agendamento_salas) | Reserva de salas com persistência em JSON | Node.js · Express |
