@@ -88,7 +88,7 @@ Projetos próprios, do design ao site e à publicação na Play Store:
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joaofg09&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&title_color=FF8A3D&icon_color=FF8A3D&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joaofg09&show_icons=true&locale=pt-br&hide_border=true&title_color=FF8A3D&icon_color=FF8A3D&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaofg09&layout=compact&langs_count=8&locale=pt-br&hide_border=true&title_color=FF8A3D&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
 </p>
 
